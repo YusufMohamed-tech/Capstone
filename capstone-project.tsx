@@ -74,7 +74,7 @@ const ProjectPage = () => {
               <div className="relative bg-white rounded-3xl shadow-2xl overflow-hidden border-4 border-white ring-2 ring-gray-100">
                 {/* Replace './prototype.jpg' with your actual image path */}
                 <img 
-                  src="./prototype.jpg"
+                  src="WhatsApp Image 2025-12-25 at 03.00.21.jpeg"
                   alt="Leaf Health Detector Prototype with breadboard, colorful wires, sensors, and yellow flower"
                   className="w-full h-auto"
                 />
